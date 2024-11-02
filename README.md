@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and cybersecurity 
 I’m always open to expanding my professional network! Connect with me on LinkedIn.
 
 <a href="https://www.linkedin.com/in/yasser-namez-0898a322b" target="_blank">
-  <img src="https://media.giphy.com/media/10vhMZkHnQCd5O/giphy.gif" width="60" alt="LinkedIn Logo" />
+  <img src="https://media.giphy.com/media/10vhMZkHnQCd5O/giphy.gif" width="100" alt="LinkedIn Logo" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
@@ -32,7 +32,7 @@ I’m always open to expanding my professional network! Connect with me on Linke
 ## 📹 Check Out My YouTube Channel
 
 <a href="https://www.youtube.com/@Codewith_Yasser" target="_blank">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60" alt="YouTube Logo" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="YouTube Logo" />
 </a>
 
 [![Subscribe to Codewith_Yasser](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Codewith_Yasser)
@@ -44,7 +44,7 @@ I’m always open to expanding my professional network! Connect with me on Linke
 I love experimenting with data science, AI models, and cybersecurity tools. Check out my projects here!
 
 <a href="https://github.com/yassernamez03" target="_blank">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="60" alt="GitHub Octocat" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="GitHub Octocat" />
 </a>
 
 [![My GitHub Profile](https://img.shields.io/badge/GitHub-Explore-blue?style=for-the-badge&logo=github)](https://github.com/yassernamez03)
