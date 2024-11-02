@@ -1,13 +1,13 @@
 # 👋 Hey there, I'm Yasser!
 
-Welcome to my GitHub profile! I'm a passionate data scientist and cybersecurity enthusiast, exploring the realms of AI, Big Data, and Cloud Computing. I love creating content that makes tech learning fun and accessible, especially on my YouTube channel!
+Welcome to my GitHub profile! I'm a passionate data scientist and cybersecurity enthusiast, exploring the realms of AI, Big Data. I love creating content that makes tech learning fun and accessible, especially on my YouTube channel!
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 First-year cybersecurity engineering student at ENSET Mohammedia
-- 📈 Background in AI and Data Science, specializing in Big Data, Cloud Computing, and Cybersecurity
+- 📈 Background in AI and Data Science, specializing in Big Data, and Cybersecurity
 - 💡 I enjoy building practical projects and sharing knowledge through **Codewith_Yasser** on YouTube
 - 🎥 Currently working on code tutorials and project videos to inspire fellow tech enthusiasts
 
