@@ -11,6 +11,22 @@ Welcome to my GitHub profile! I'm a passionate data scientist and cybersecurity 
 - 💡 I enjoy building practical projects and sharing knowledge through **Codewith_Yasser** on YouTube
 - 🎥 Currently working on code tutorials and project videos to inspire fellow tech enthusiasts
 
+
+---
+
+## 🌐 Connect on LinkedIn
+
+I’m always open to expanding my professional network! Connect with me on LinkedIn.
+
+<a href="https://www.linkedin.com/in/yasser-namez-0898a322b" target="_blank">
+  <img src="https://media.giphy.com/media/10vhMZkHnQCd5O/giphy.gif" width="60" alt="LinkedIn Logo" />
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
+
+---
+
+
 ---
 
 ## 📹 Check Out My YouTube Channel
