@@ -56,7 +56,7 @@ I love experimenting with data science, AI models, and cybersecurity tools. Chec
 Have questions or want to collaborate? Feel free to reach out!
 
 <a href="mailto:namezyasser5@gmail.com" target="_blank">
-  <img src="https://media.giphy.com/media/ftMq59B7SP9zyAI7Yg/giphy.gif" width="60" alt="Email Icon" />
+  <img src="https://media.giphy.com/media/ftMq59B7SP9zyAI7Yg/giphy.gif" width="100" alt="Email Icon" />
 </a>
 
 [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-blueviolet?style=for-the-badge&logo=gmail)](mailto:namezyasser5@gmail.com)
