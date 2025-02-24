@@ -3,14 +3,24 @@
 </h2>
 
 <div align="center">
-  
-  🎓 First-year Cybersecurity Engineering Student at **ENSET Mohammedia**
-  
-  🔭 Currently crafting awesome content on [Codewith_Yasser](https://www.youtube.com/@Codewith_Yasser)
-  
-  ⚡ Passionate about **AI**, **Data Science**, and **Cybersecurity**
 
- </div>
+### 🎓 Cybersecurity Engineering Student @ ENSET Mohammedia
+
+<p align="center">
+  <a href="https://www.youtube.com/@mighty_programmer">
+    <img src="https://img.shields.io/badge/Youtube-Codewith__Yasser-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"/>
+  </a>
+</p>
+
+#### About Me
+
+🔐 Specializing in **Cybersecurity** & **AI-Driven Security Solutions**  
+🤖 Exploring the intersection of **Artificial Intelligence** & **Data Science**  
+🛡️ Passionate about **Ethical Hacking** & **Cloud Security**  
+📚 Building innovative projects while continuously learning  
+🌐 Sharing knowledge through project demonstrations & tutorials
+
+</div>
  
 <div align="center"> 
   <a href="mailto:namezyasser5@gmail.com">
