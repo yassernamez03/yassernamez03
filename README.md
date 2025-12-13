@@ -1,69 +1,94 @@
-<!-- Header / Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=header" width="100%" alt="decorative header"/>
+<div align="center">
 
-<h1 align="center">Hi, I'm <span title="Pronounced: Yah-ser">Yasser Namez</span> 👋</h1>
-<p align="center">
-    💻 Software Engineer & Cybersecurity Specialist @ <strong>ENSET Mohammedia</strong><br/>
-    🔐 Full-Stack Development • 🛡️ Security Engineering • ☁️ Cloud & DevSecOps
-</p>
+# Hi, I'm Yasser Namez 
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=22&pause=1200&center=true&vCenter=true&width=750&lines=Building+Secure%2C+Scalable+Software+Solutions;Full-Stack+%7C+AI%2FML+%7C+Security+Engineering;From+Code+to+Cloud%2C+Security+First" alt="typing intro"/>
-</p>
+### Software Engineer & Cybersecurity Specialist
 
-<!-- Socials -->
-<p align="center">
-    <a href="mailto:namezyasser5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-    <a href="https://www.linkedin.com/in/yasser-namez-0898a322b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://yassernamez03.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@Codewith_Yasser" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+**ENSET Mohammedia** | Full-Stack Development • Security Engineering • Cloud & DevSecOps
 
-<!-- About -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Building+Secure+Software+Solutions;Full-Stack+Developer;Security+Engineering;AI%2FML+Integration" alt="typing intro"/>
+
+[![Email](https://img.shields.io/badge/Email-namezyasser5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:namezyasser5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-111827?style=flat-square&logo=vercel)](https://yassernamez03.github.io/Portfolio/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@Codewith_Yasser)
+
+</div>
+
+---
+
+## About
+
+Software engineer specializing in building secure, scalable applications with a security-first approach. Experienced in full-stack development, cloud architectures, and integrating AI/ML solutions into production systems.
+
+**Core Focus Areas:**
+- Full-stack web development with modern frameworks and backend systems
+- Security engineering across the entire software development lifecycle
+- AI/ML integration for intelligent applications and security automation
+- DevSecOps practices including automated security testing and CI/CD pipelines
+- Enterprise application development and cloud-native architectures
+
+**Currently:** Building enterprise applications, security tools, and AI-powered solutions | Open to software engineering roles and security research collaborations
+
+---
+
+## Technology Stack
+
 <details open>
-    <summary><b>👨‍💻 About Me</b></summary>
-    <br/>
-    
-- 🚀 **Software Engineer** passionate about building secure, scalable applications
-- 🔐 **Security-First Mindset**: Integrating security at every layer of the software development lifecycle
-- 💡 **Full-Stack Developer**: Proficient in modern web frameworks, backend systems, and cloud architectures
-- 🤖 **AI/ML Enthusiast**: Leveraging machine learning for intelligent applications and security automation
-- 🛠️ **DevSecOps Advocate**: Automating security testing, CI/CD pipelines, and infrastructure as code
-- 🌐 **Current Focus**: Building enterprise applications, security tools, and AI-powered solutions
-- 🤝 **Open to**: Software engineering roles, security research collaborations, and open-source contributions
-</details>
-
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Technology Stack</h2>
-
-<h3 align="center">Languages & Frameworks</h3>
+<summary><b>Languages & Frameworks</b></summary>
+<br/>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,bash" alt="languages"/>
 </p>
 
-<h3 align="center">Backend & Databases</h3>
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br/>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,mysql,postgresql,mongodb" alt="backend"/>
 </p>
 
-<h3 align="center">Frontend & Mobile</h3>
+</details>
+
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br/>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="frontend"/>
 </p>
 
-<h3 align="center">AI/ML & Data Science</h3>
+</details>
+
+<details open>
+<summary><b>AI/ML & Data Science</b></summary>
+<br/>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="ml"/>
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+</details>
+
+<details open>
+<summary><b>DevOps & Cloud</b></summary>
+<br/>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,jenkins" alt="devops"/>
 </p>
 
-<h3 align="center">Security Tools & Platforms</h3>
+</details>
+
+<details open>
+<summary><b>Security Tools</b></summary>
+<br/>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="burp"/>
     <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="zap"/>
@@ -71,96 +96,90 @@
     <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
 </p>
 
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+</details>
 
-<h3 align="center">🔐 Security & Pentesting</h3>
+---
+
+## Featured Projects
+
+### Security & Pentesting
 <p align="center">
     <a href="https://github.com/yassernamez03/Security-Vulnerability-Analysis-Platform-Nautilus"><img width="380" alt="Nautilus Security Platform" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Security-Vulnerability-Analysis-Platform-Nautilus&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/Pentesting-Agent"><img width="380" alt="Pentesting Agent" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Pentesting-Agent&theme=react&border_radius=10"/></a>
 </p>
 
-<h3 align="center">💼 Enterprise Applications</h3>
+### Enterprise Applications
 <p align="center">
     <a href="https://github.com/yassernamez03/Enterprise-Resource-Planning-Spring-Boot-Application"><img width="380" alt="ERP System" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Enterprise-Resource-Planning-Spring-Boot-Application&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/HelpDesk-JavaFX"><img width="380" alt="HelpDesk System" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=HelpDesk-JavaFX&theme=react&border_radius=10"/></a>
 </p>
 
-<h3 align="center">🤖 AI/ML Applications</h3>
+### AI/ML Applications
 <p align="center">
     <a href="https://github.com/yassernamez03/TARI9-AI"><img width="380" alt="TARI9 AI" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=TARI9-AI&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/Diabetic-Retinopathy-Detection-App"><img width="380" alt="Medical AI App" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Diabetic-Retinopathy-Detection-App&theme=react&border_radius=10"/></a>
 </p>
 
-<h3 align="center">🛠️ DevSecOps & Tools</h3>
+### DevSecOps & Tools
 <p align="center">
     <a href="https://github.com/yassernamez03/CodeAudit-Code-Security-and-Quality-Scanner"><img width="380" alt="CodeAudit Scanner" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=CodeAudit-Code-Security-and-Quality-Scanner&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/StockSensie"><img width="380" alt="Stock Analysis AI" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=StockSensie&theme=react&border_radius=10"/></a>
 </p>
 
-<!-- Skills & Expertise -->
-<h2 align="center">💡 Core Competencies</h2>
+---
+
+## Core Competencies
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-### Software Engineering
-- ✅ Full-Stack Web Development
-- ✅ RESTful API Design & Development
-- ✅ Microservices Architecture
-- ✅ Database Design & Optimization
-- ✅ Clean Code & Design Patterns
-- ✅ Agile/Scrum Methodologies
+**Software Engineering**
+- Full-Stack Web Development
+- RESTful API Design & Development
+- Microservices Architecture
+- Database Design & Optimization
+- Clean Code & Design Patterns
+- Agile/Scrum Methodologies
 
 </td>
 <td valign="top" width="50%">
 
-### Security Engineering
-- 🔒 Application Security (OWASP Top 10)
-- 🔒 Penetration Testing & Ethical Hacking
-- 🔒 Security Code Review & SAST/DAST
-- 🔒 Vulnerability Assessment & Management
-- 🔒 Threat Modeling & Risk Analysis
-- 🔒 Security Automation & DevSecOps
+**Security Engineering**
+- Application Security (OWASP Top 10)
+- Penetration Testing & Ethical Hacking
+- Security Code Review & SAST/DAST
+- Vulnerability Assessment & Management
+- Threat Modeling & Risk Analysis
+- Security Automation & DevSecOps
 
 </td>
 </tr>
 </table>
 
-<!-- Analytics -->
-<h2 align="center">📊 GitHub Analytics</h2>
+---
+
+## GitHub Analytics
 <div align="center">
-    <img width="390" alt="streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yassernamez03&count_private=true&theme=react&border_radius=10"/>
-    <img width="390" alt="readme stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=yassernamez03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+    <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yassernamez03&count_private=true&theme=react&border_radius=10"/>
+    <img width="49%" alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=yassernamez03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
     <br/><br/>
-    <img width="780" alt="top languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yassernamez03&hide=HTML,CSS&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+    <img width="70%" alt="Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yassernamez03&hide=HTML,CSS&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
 </div>
 
-<!-- Activity Graph -->
-<h2 align="center">🌱 Contribution Activity</h2>
+---
+
+## Let's Connect
+
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
-        <img alt="Contribution snake" src="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
-    </picture>
+
+I'm always interested in discussing new projects, creative ideas, or opportunities to collaborate on innovative solutions.
+
+**Open to:** Software Engineering Roles • Security Research • AI/ML Projects • Open Source Contributions
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namezyasser5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yassernamez03.github.io/Portfolio/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yassernamez03&style=flat-square&color=0ea5e9)
+
 </div>
-
-<!-- Call to Action -->
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
-<p align="center">
-    I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.<br/>
-    Whether it's <b>software development</b>, <b>security research</b>, or <b>AI/ML projects</b> — let's build something amazing together!
-</p>
-
-<p align="center">
-    <a href="mailto:namezyasser5@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/yasser-namez-0898a322b/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://yassernamez03.github.io/Portfolio/"><img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yassernamez03&style=for-the-badge&color=0ea5e9" alt="Profile views"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer" width="100%" alt="decorative footer"/>
