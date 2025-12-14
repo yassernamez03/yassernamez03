@@ -102,10 +102,10 @@ Software engineer specializing in building secure, scalable applications with a 
 
 ## Featured Projects
 
-### Security & Pentesting
+### Security & Vulnerability Analysis
 <p align="center">
     <a href="https://github.com/yassernamez03/Security-Vulnerability-Analysis-Platform-Nautilus"><img width="380" alt="Nautilus Security Platform" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Security-Vulnerability-Analysis-Platform-Nautilus&theme=react&border_radius=10"/></a>
-    <a href="https://github.com/yassernamez03/Pentesting-Agent"><img width="380" alt="Pentesting Agent" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Pentesting-Agent&theme=react&border_radius=10"/></a>
+    <a href="https://github.com/yassernamez03/CodeAudit-Code-Security-and-Quality-Scanner"><img width="380" alt="CodeAudit Scanner" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=CodeAudit-Code-Security-and-Quality-Scanner&theme=react&border_radius=10"/></a>
 </p>
 
 ### Enterprise Applications
@@ -119,11 +119,15 @@ Software engineer specializing in building secure, scalable applications with a 
     <a href="https://github.com/yassernamez03/TARI9-AI"><img width="380" alt="TARI9 AI" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=TARI9-AI&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/Diabetic-Retinopathy-Detection-App"><img width="380" alt="Medical AI App" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Diabetic-Retinopathy-Detection-App&theme=react&border_radius=10"/></a>
 </p>
-
-### DevSecOps & Tools
 <p align="center">
-    <a href="https://github.com/yassernamez03/CodeAudit-Code-Security-and-Quality-Scanner"><img width="380" alt="CodeAudit Scanner" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=CodeAudit-Code-Security-and-Quality-Scanner&theme=react&border_radius=10"/></a>
+    <a href="https://github.com/yassernamez03/Audio-Emotion-Recognition-Project"><img width="380" alt="Audio Emotion Recognition" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Audio-Emotion-Recognition-Project&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/StockSensie"><img width="380" alt="Stock Analysis AI" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=StockSensie&theme=react&border_radius=10"/></a>
+</p>
+
+### AI-Powered Tools & Automation
+<p align="center">
+    <a href="https://github.com/yassernamez03/Intelligent-Document-Management-with-OCR-and-AI"><img width="380" alt="Intelligent Document Management" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Intelligent-Document-Management-with-OCR-and-AI&theme=react&border_radius=10"/></a>
+    <a href="https://github.com/yassernamez03/Langchain-technical-documentation-assistant"><img width="380" alt="LangChain RAG Assistant" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Langchain-technical-documentation-assistant&theme=react&border_radius=10"/></a>
 </p>
 
 ---
