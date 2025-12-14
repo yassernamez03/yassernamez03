@@ -27,9 +27,6 @@ Software engineer specializing in building secure, scalable applications with a 
 - AI/ML integration for intelligent applications and security automation
 - DevSecOps practices including automated security testing and CI/CD pipelines
 - Enterprise application development and cloud-native architectures
-
-**Currently:** Building enterprise applications, security tools, and AI-powered solutions | Open to software engineering roles and security research collaborations
-
 ---
 
 ## Technology Stack
@@ -38,7 +35,7 @@ Software engineer specializing in building secure, scalable applications with a 
 <summary><b>Languages & Frameworks</b></summary>
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,bash,r,c++,go" alt="languages"/>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,bash,r,cpp,go" alt="languages"/>
 </p>
 </details>
 
@@ -46,7 +43,7 @@ Software engineer specializing in building secure, scalable applications with a 
 <summary><b>Backend & Databases</b></summary>
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,mysql,postgresql,mongodb,redis,supabase" alt="backend"/>
+    <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,mysql,postgresql,mongodb,redis,supabase,cassandra" alt="backend"/>
 </p>
 </details>
 
@@ -75,24 +72,10 @@ Software engineer specializing in building secure, scalable applications with a 
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,jenkins" alt="devops"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,jenkins,terraform,grafana" alt="devops"/>
 </p>
 
 </details>
-
-<details open>
-<summary><b>Security Tools</b></summary>
-<br/>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="burp"/>
-    <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="zap"/>
-    <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" alt="nessus"/>
-    <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
-</p>
-
-</details>
-
 ---
 
 ## Featured Projects
@@ -118,8 +101,6 @@ Software engineer specializing in building secure, scalable applications with a 
     <a href="https://github.com/yassernamez03/Audio-Emotion-Recognition-Project"><img width="380" alt="Audio Emotion Recognition" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Audio-Emotion-Recognition-Project&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/StockSensie"><img width="380" alt="Stock Analysis AI" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=StockSensie&theme=react&border_radius=10"/></a>
 </p>
-
-### AI-Powered Tools & Automation
 <p align="center">
     <a href="https://github.com/yassernamez03/Intelligent-Document-Management-with-OCR-and-AI"><img width="380" alt="Intelligent Document Management" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Intelligent-Document-Management-with-OCR-and-AI&theme=react&border_radius=10"/></a>
     <a href="https://github.com/yassernamez03/Langchain-technical-documentation-assistant"><img width="380" alt="LangChain RAG Assistant" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Langchain-technical-documentation-assistant&theme=react&border_radius=10"/></a>
