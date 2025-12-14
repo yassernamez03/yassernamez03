@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=120&section=header" width="100%" alt="decorative header"/>
+
 <div align="center">
 
-# Hi, I'm Yasser Namez 
+# Hi, I'm Yasser Namez
 
 ### Software Engineer & Cybersecurity Specialist
 
@@ -15,7 +17,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## About
 
@@ -27,13 +29,15 @@ Software engineer specializing in building secure, scalable applications with a 
 - AI/ML integration for intelligent applications and security automation
 - DevSecOps practices including automated security testing and CI/CD pipelines
 - Enterprise application development and cloud-native architectures
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## Technology Stack
 
 <details open>
 <summary><b>Languages & Frameworks</b></summary>
-<br/>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,bash,r,cpp,go" alt="languages"/>
 </p>
@@ -41,42 +45,34 @@ Software engineer specializing in building secure, scalable applications with a 
 
 <details open>
 <summary><b>Backend & Databases</b></summary>
-<br/>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,mysql,postgresql,mongodb,redis,supabase,cassandra" alt="backend"/>
 </p>
 </details>
 
 <details open>
-<summary><b>Frontend & Mobile</b></summary>
-<br/>
-
+<summary><b>Frontend & Mobile</b></summary><br/>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" alt="frontend"/>
 </p>
-
 </details>
 
 <details open>
 <summary><b>AI/ML & Data Science</b></summary>
-<br/>
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pkl" alt="ml"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="ml"/>
 </p>
-
 </details>
 
 <details open>
 <summary><b>DevOps & Cloud</b></summary>
-<br/>
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,jenkins,terraform,grafana" alt="devops"/>
 </p>
-
 </details>
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Featured Projects
 
@@ -106,9 +102,10 @@ Software engineer specializing in building secure, scalable applications with a 
     <a href="https://github.com/yassernamez03/Langchain-technical-documentation-assistant"><img width="380" alt="LangChain RAG Assistant" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Langchain-technical-documentation-assistant&theme=react&border_radius=10"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Core Competencies
+
 <table align="center">
 <tr>
 <td valign="top" width="50%">
@@ -136,30 +133,50 @@ Software engineer specializing in building secure, scalable applications with a 
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Analytics
+
 <div align="center">
-    <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yassernamez03&count_private=true&theme=react&border_radius=10"/>
-    <img width="49%" alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=yassernamez03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+    <img width="69%" alt="GitHub Streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yassernamez03&count_private=true&theme=react&border_radius=10"/>
+    <img width="69%" alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=yassernamez03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
     <br/><br/>
-    <img width="70%" alt="Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yassernamez03&hide=HTML,CSS&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+    <img width="50%" alt="Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yassernamez03&hide=HTML,CSS&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+    <br/><br/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
+
+## Contribution Garden
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
+        <img alt="Contribution snake" src="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Let's Connect
 
 <div align="center">
 
-I'm always interested in discussing new projects, creative ideas, or opportunities to collaborate on innovative solutions.
-
 **Open to:** Software Engineering Roles • Security Research • AI/ML Projects • Open Source Contributions
+
+<br/>
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namezyasser5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yassernamez03.github.io/Portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yassernamez03&style=flat-square&color=0ea5e9)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yassernamez03&style=for-the-badge&color=0ea5e9&label=Profile+Views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=120&section=footer" width="100%" />
