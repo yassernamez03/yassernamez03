@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=120&section=header" width="100%" alt="decorative header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=200&section=header" width="100%" alt="decorative header"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 **ENSET Mohammedia** | Full-Stack Development • Security Engineering • Cloud & DevSecOps
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Building+Secure+Software+Solutions;Full-Stack+Developer;Security+Engineering;AI%2FML+Integration" alt="typing intro"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&color=A855F7&lines=Building+Secure+Software+Solutions;Full-Stack+Developer;Security+Engineering;AI%2FML+Integration" alt="typing intro"/>
 
 [![Email](https://img.shields.io/badge/Email-namezyasser5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:namezyasser5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
 
 ## About
 
@@ -30,7 +30,7 @@ Software engineer specializing in building secure, scalable applications with a 
 - DevSecOps practices including automated security testing and CI/CD pipelines
 - Enterprise application development and cloud-native architectures
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
 
 
 ## Technology Stack
@@ -72,7 +72,7 @@ Software engineer specializing in building secure, scalable applications with a 
 </p>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
 
 ## Featured Projects
 
@@ -102,7 +102,34 @@ Software engineer specializing in building secure, scalable applications with a 
     <a href="https://github.com/yassernamez03/Langchain-technical-documentation-assistant"><img width="380" alt="LangChain RAG Assistant" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=yassernamez03&repo=Langchain-technical-documentation-assistant&theme=react&border_radius=10"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
+
+
+## GitHub Analytics
+
+<img src="https://metrics.lecoq.io/yassernamez03?template=classic&isocalendar=1&languages=1&activity=1&base.indepth=false&base.hireable=true&config.timezone=Africa%2FCasablanca" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassernamez03&theme=react-dark&hide_border=true" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
+
+## Contribution Garden
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
+        <img alt="Contribution snake" src="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
+
 
 ## Core Competencies
 
@@ -133,33 +160,8 @@ Software engineer specializing in building secure, scalable applications with a 
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2&section=header" width="100%"/>
 
-## GitHub Analytics
-
-<div align="center">
-    <img width="69%" alt="GitHub Streak" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yassernamez03&count_private=true&theme=react&border_radius=10"/>
-    <img width="69%" alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=yassernamez03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-    <br/><br/>
-    <img width="50%" alt="Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yassernamez03&hide=HTML,CSS&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
-    <br/><br/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## Contribution Garden
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
-        <img alt="Contribution snake" src="https://raw.githubusercontent.com/yassernamez03/yassernamez03/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Let's Connect
 
@@ -179,4 +181,6 @@ Software engineer specializing in building secure, scalable applications with a 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=200&section=footer" width="100%" />
+
+
