@@ -38,19 +38,16 @@ Software engineer specializing in building secure, scalable applications with a 
 <summary><b>Languages & Frameworks</b></summary>
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,bash" alt="languages"/>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,bash,r,c++,go" alt="languages"/>
 </p>
-
 </details>
 
 <details open>
 <summary><b>Backend & Databases</b></summary>
 <br/>
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,mysql,postgresql,mongodb" alt="backend"/>
+    <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,mysql,postgresql,mongodb,redis,supabase" alt="backend"/>
 </p>
-
 </details>
 
 <details open>
@@ -58,7 +55,7 @@ Software engineer specializing in building secure, scalable applications with a 
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="frontend"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" alt="frontend"/>
 </p>
 
 </details>
@@ -68,9 +65,7 @@ Software engineer specializing in building secure, scalable applications with a 
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="ml"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pkl" alt="ml"/>
 </p>
 
 </details>
