@@ -4,7 +4,7 @@
 
 # Hi, I'm Yasser Namez
 
-### Software Engineer & Cybersecurity Specialist
+### Software Engineer & Machine learning Specialist
 
 **ENSET Mohammedia** | Full-Stack Development • Security Engineering • Cloud & DevSecOps
 
