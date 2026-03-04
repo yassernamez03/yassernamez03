@@ -8,7 +8,7 @@
 
 **ENSET Mohammedia** | Full-Stack Development • Machine Learning Engineering • MLOPS
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&color=A855F7&lines=Building+Secure+Software+Solutions;Full-Stack+Developer;Security+Engineering;AI%2FML+Integration" alt="typing intro"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&color=A855F7&lines=Full-Stack+Developer;Machine+Learning+Engineering;AI%2FML+Integration" alt="typing intro"/>
 
 <div align="center">
     <picture>
@@ -18,25 +18,19 @@
     </picture>
 </div>
 
-
 ## Let's Connect
 
 <div align="center">
 
 **Open to:** Software Engineering Roles • Security Research • AI/ML Projects • Open Source Contributions
 
-<br/>
-
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namezyasser5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-namez-0898a322b/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yassernamez03.github.io/Portfolio/)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yassernamez03&style=for-the-badge&color=0ea5e9&label=Profile+Views)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:ec4899&height=100&section=footer" width="100%" />
 
 
